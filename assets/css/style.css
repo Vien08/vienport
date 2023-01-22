@@ -1,0 +1,63 @@
+
+
+*{
+  font-family: 'Kanit', sans-serif;
+}
+
+.bike{
+  color: rgb(228, 229, 232);
+  text-decoration: none;
+  transition: all .2s ease;
+  
+}
+.bike:hover{
+  color: rgb(145, 217, 114);
+}
+
+.tool{
+  color: rgb(21, 21, 21) !important;
+}
+
+.propic{
+  width: 180px;
+  border-radius: 50%;
+  border-width: 1px;                     
+  height: 180px ;
+  object-fit: cover;
+  object-position: top;
+}
+
+.info{
+  font-size:14px;
+}
+
+.first{
+  background: radial-gradient(
+        circle, 
+        rgb(64, 63, 63)10%,
+        rgb(86, 85, 85) 100%
+    );
+}
+
+.card{
+  background: radial-gradient(
+        circle, 
+        rgb(80, 78, 78)10%,
+        rgb(63, 62, 62) 100%
+    );
+  color: rgb(240, 239, 239);
+}
+
+.section{
+  background-color: rgb(52, 50, 50);
+  border-radius: 10px;
+}
+
+.footer{
+  background: radial-gradient(
+        circle, 
+        rgb(48, 47, 47)10%,
+        rgb(86, 85, 85) 100%
+    );
+}
+
